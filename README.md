@@ -1,4 +1,4 @@
 # AmandaWorld
 Amanda's ideal world 
 
-Welcome Beef-Heng (*^_^*)
+Welcome Beef-Heng ^_^
