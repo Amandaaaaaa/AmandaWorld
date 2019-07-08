@@ -1,4 +1,6 @@
 # AmandaWorld
 Amanda's ideal world 
 
-Welcome Beef-Heng ^_^
+Bonjours tout le monde~
+Je suis heureuse de vous connaitre
+Bonne journee!
