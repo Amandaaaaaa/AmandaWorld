@@ -7,7 +7,7 @@ Je suis heureuse de vous connaître
 
 Bonne journée et bonne chance!  
 
-Github中上传了三个code：
+Github中上传了三个code，是本学期《大数据挖掘与分析》的学习成果：
 
 1. 网易云爬虫
 
